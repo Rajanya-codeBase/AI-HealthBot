@@ -115,7 +115,11 @@ All in one integrated dashboard.
 
 - 🖼️ Pillow (Image Processing)
 
-- 📄 ReportLab (PDF Generation)
+-  📄 ReportLab (PDF Generation)
+
+## 🚀 Live Demo
+🔗 Try the App Here: https://ai-healthbot-dbwo322noka6iwy82su3jt.streamlit.app/
+
 
 - 🔐 dotenv (Environment Variables)
 
