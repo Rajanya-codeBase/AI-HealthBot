@@ -19,3 +19,83 @@ It provides intelligent, personalized:
 All in one integrated dashboard.
 ## ✨ Features
 ### 🍽️ 1. Personalized Meal Planner
+1. Structured 7-Day Meal Plan
+
+2. Breakfast, snacks, lunch, dinner
+
+3. Calories & protein estimates
+
+4. Shopping list
+
+5. Meal prep tips
+
+6. 📄 PDF Download Support
+
+7. Strictly follows user:
+
+   - Health goals
+
+   - Medical conditions
+
+   - Dietary restrictions
+
+   - Food preferences
+
+### 🔍 2. AI Food Analyzer (Image-Based)
+1. Upload JPG/PNG food image
+
+2. AI identifies food items
+
+3. Provides:
+
+   - Estimated calories
+
+   - Macronutrients (Protein, Carbs, Fat)
+
+   - Portion estimation
+
+   - Health benefits
+  
+### 🧠 3. Health Insights Engine
+
+1. Ask health or nutrition questions
+
+2. Evidence-based explanations
+
+3. Personalized advice using user profile
+
+4. Practical lifestyle recommendations
+
+### 🏋️ 4. AI Workout Planner
+
+1 Generates structured 7-day workout plan
+
+2. Based on:
+
+   - Fitness level
+
+   - Location (Home/Gym)
+
+   - Equipment
+
+   - Goal (Fat Loss / Muscle Gain / Fitness)
+
+### 📈 5. Progress Tracker
+
+1. Tracks:
+
+   - Daily weight
+
+   - Calories consumed
+
+   - Workout completion
+
+2. Stores data in CSV
+
+3. Visualizes:
+
+   - Weight trend
+
+   - Calorie trend
+
+   - Workout consistency %
