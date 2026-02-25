@@ -117,10 +117,12 @@ All in one integrated dashboard.
 
 -  📄 ReportLab (PDF Generation)
 
+- 🔐 dotenv (Environment Variables)
+
+- ☁️ Streamlit Cloud (Deployment)
+
 ## 🚀 Live Demo
 🔗 Try the App Here: https://ai-healthbot-dbwo322noka6iwy82su3jt.streamlit.app/
 
 
-- 🔐 dotenv (Environment Variables)
 
-- ☁️ Streamlit Cloud (Deployment)
