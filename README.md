@@ -6,14 +6,16 @@ This app provides customized meal plans, food analysis, workout plans, health in
 <br>
 It provides intelligent, personalized:
 
-  - 🥗 Meal Planning
+  - 🍽 Meal Planning
 
-  - 🔍 Food Image Analysis
+  - 📸 Food Analysis
 
   - 🧠 Health Insights
 
-  - 🏋️ Workout Planning
+  - 💪 Workout Planning
 
-  - 📈 Progress Tracking
+  - 📊 Progress Tracking
 
 All in one integrated dashboard.
+## ✨ Features
+### 🍽️ 1. Personalized Meal Planner
