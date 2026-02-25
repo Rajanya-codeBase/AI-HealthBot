@@ -99,3 +99,20 @@ All in one integrated dashboard.
    - Calorie trend
 
    - Workout consistency %
+
+## 🛠️ Tech Stack
+- 🐍 Python
+
+- 🎨 Streamlit
+
+- 🤖 Google Generative AI (Gemini 2.5 Flash)
+
+- 🗂️ Pandas
+
+- 🖼️ Pillow (Image Processing)
+
+- 📄 ReportLab (PDF Generation)
+
+- 🔐 dotenv (Environment Variables)
+
+- ☁️ Streamlit Cloud (Deployment)
